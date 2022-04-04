@@ -1,7 +1,7 @@
 {
-    "Prefix": "",
-    "Owner": "",
+    "Prefix": "^",
+    "Owner": "874494340259520553",
     "Github": "https://github.com/Dinav69/DoggoBot/",
-    "Invite": "",
-    "Server": "
+    "Invite": "https://discord.com/api/oauth2/authorize?client_id=959115156468678706&permissions=8&scope=bot",
+    "Server": "https://discord.gg/uTgaB2SrB9"
 }
